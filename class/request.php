@@ -14,6 +14,9 @@ class Request {
         }
     }
 
+    function accomodate() {
+    }
+
 }
 
 ?>
